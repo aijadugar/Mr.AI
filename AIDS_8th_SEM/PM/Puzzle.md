@@ -42,3 +42,21 @@
 | 24  | Work Breakdown Structure (abbr)          | **WBS**     |
 
 ---
+
+## Table Grid
+
+| M | O | N | I | T | O | R | I | N | G |
+| - | - | - | - | - | - | - | - | - | - |
+|   |   | A | G | I | L | E |   |   |   |
+| T | A | S | K |   | P | L | A | N |   |
+| R | E | P | O | R | T |   |   |   |   |
+| T | E | A | M |   |   |   |   |   |   |
+| P | H | A | S | E |   |   |   |   |   |
+| S | C | O | P | E |   |   |   |   |   |
+| C | H | A | R | T |   |   |   |   |   |
+| O | B | J | E | C | T | I | V | E |   |
+| C | R | A | S | H | I | N | G |   |   |
+| B | U | D | G | E | T |   |   |   |   |
+| S | C | R | U | M |   |   |   |   |   |
+
+---
