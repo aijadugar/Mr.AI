@@ -1,6 +1,6 @@
 # Mr.AI ~ My Journey in Artificial Intelligence & Data Science
 
-> *“This repository is not just code... it’s a timeline of my growth, struggles, curiosity, and passion.”*
+> “This repository is not just files... it’s a step-by-step improvement of myself.”
 
 ---
 
